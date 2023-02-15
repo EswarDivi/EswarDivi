@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**EswarDivi/eswardivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Something Really Cool
+🌱 I’m currently learning NextJs, Docker ,Pytorch
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` python
+__author__ = "Eswar Divi
+__email__ = "eswar.divi.902@gmail.com
+__description__ = "Full Stack DeepLearning developer and open source enthusiast"
+__location__ = "Anytown,SomeWhere"
+__github__ = "https://github.com/EswarDivi"
+
+class Who:
+    def __init__(self):
+        self.author = __author__
+        self.email = __email__
+        self.description = __description__
+        self.location = __location__
+        self.github = __github__
+
+    def __repr__(self):
+        return f"{self.author} ({self.email}) - {self.description} from {self.location}. Check out my code at {self.github}"
+
+
+Who()
+
+```
