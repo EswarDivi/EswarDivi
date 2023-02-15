@@ -20,7 +20,7 @@ class Who:
         self.github = __github__
 
     def __repr__(self):
-        return f"{self.author} ({self.email}) - {self.description} from {self.location}. Check out my code at {self.github}"
+         return f"🐍 {self.author} \n📧 {self.email} \n💻 {self.description} \n🌍  {self.location} \n🔗  Check out my code: {self.github}"
 
 
 Who()
