@@ -65,6 +65,24 @@ Who()
 
 ```
 
-<div style='background-color:#ffffff;padding:20px;border-radius:10px;box-shadow:3px 3px 10px rgba(0, 0, 0, 0.2);text-align:center;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;'><h1 style='color:#547980'>Eswar Divi</h1><p style='color:#f9c74f;font-size:18px;'>🐍 Pythonista | 🔓 Open-source | 🐬 Deep Learning | 💡 Innovator</p><p style='color:#f9c74f;font-size:14px;'>🌎 Anytown, SomeWhere</p><p style='color:#f9c74f;font-size:14px;'>Interests: 📈 Data science | 🤖 Machine learning | 🎨 Creative coding | 🎮 Game development</p><p style='color:#f9c74f;font-size:14px;'>Skills: 🐍 Python | ☕ Java | 🔥 Firebase | </p><a href='https://github.com/EswarDivi' target='_blank' style='background-color:#547980;color:#f9c74f;padding:10px 20px;border-radius:20px;text-decoration:none;margin-top:20px;display:inline-block;'>Check out my code on GitHub</a></div>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<div
+style='background-color:#dce6dc;padding:20px;border-radius:10px;box-shadow:3px 3px 10px rgba(0, 0, 0, 0.2);text-align:center;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;'>
+    <h1 style='color:#8ab6d6'>Eswar Divi</h1>
+    <p style='color:#cc5b1e;font-size:18px;'>🐍 Pythonista | 🔓 Open-source evangelist | 🐬 Deep Learning | 💡 Innovator
+    </p>
+    <p style='color:#030303;font-size:14px;'>🌎 Anytown, SomeWhere</p>
+    <p style='color:#332f2d;font-size:14px;'>Interests: 📈 Data science | 🤖 Machine learning | 🎨 Creative coding | 🎮
+        Game development</p>
+    <p style='color:#3b3532;font-size:14px;'>Skills: 🐍 Python | ☕ Java | 🔥 Firebase | 🚀 Scala | 🐘 PostgreSQL | 🍃
+        MongoDB</p><a href='https://github.com/EswarDivi' target='_blank'
+        style='background-color:#8ab6d6;color:#f2e9e4;padding:10px 20px;border-radius:20px;text-decoration:none;margin-top:20px;display:inline-block;'>Check
+        out my code on GitHub</a>
+</div>
+</div>
+</foreignObject>
+</svg>
 
 
