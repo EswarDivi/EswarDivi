@@ -10,7 +10,7 @@ from typing import List
 __author__ = "Eswar Divi"
 __email__ = "eswar.divi.902@gmail.com"
 __description__ = (
-    "🐍 Pythonista | 🔓 Open-source evangelist | 🐬 Deep Learning | 💡 Innovator"
+    "🐍 Pythonista | 🔓 Open-source enthusiastic | 🐬 Deep Learning | 💡 Innovator"
 )
 __location__ = "🌎 Anytown, SomeWhere"
 __github__ = "https://github.com/EswarDivi"
