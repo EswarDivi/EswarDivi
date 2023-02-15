@@ -5,8 +5,8 @@
 
 
 ``` python
-__author__ = "Eswar Divi
-__email__ = "eswar.divi.902@gmail.com
+__author__ = "Eswar Divi"
+__email__ = "eswar.divi.902@gmail.com"
 __description__ = "Full Stack DeepLearning developer and open source enthusiast"
 __location__ = "Anytown,SomeWhere"
 __github__ = "https://github.com/EswarDivi"
