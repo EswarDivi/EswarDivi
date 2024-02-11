@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Something Really Cool \
-🌱 I’m currently learning NextJs, Docker ,Pytorch
-
+🔭 I’m currently working on building language models for Indian languages.
 
 ``` python
 from typing import List
