@@ -8,7 +8,7 @@ from typing import List
 __author__ = "Eswar Divi"
 __email__ = "eswar.divi.902@gmail.com"
 __description__ = (
-    "🐍 Pythonista | 🔓 Open-source enthusiastic | 🐬 Deep Learning | 💡 Innovator"
+    "🐍 Pythonista | 🔓 Open-source enthusiastic | 🐬 Deep Learning|"
 )
 __location__ = "🌎 Anytown, SomeWhere"
 __github__ = "https://github.com/EswarDivi"
@@ -24,16 +24,6 @@ class Who:
         self.interests = [
             "📈 Data science",
             "🤖 Machine learning",
-            "🎨 Creative coding",
-            "🎮 Game development",
-        ]
-        self.skills = [
-            "🐍 Python",
-            "☕ Java",
-            "🔥 Firebase",
-            "🚀 Scala",
-            "🐘 PostgreSQL",
-            "🍃 MongoDB",
         ]
     def get_interests(self) -> str:
         return " | ".join(self.interests)
@@ -42,12 +32,12 @@ class Who:
         return " | ".join(self.skills)
 
     def __repr__(self):
-        return f"<h1>{self.author}</h1><p>{self.description}</p><p>{self.location}</p><p>Interests: {self.get_interests()}</p><p>Skills: {self.get_skills()}</p><a href='{self.github}' target='_blank'>Check out my code on GitHub</a>"
+        return f"<h1>{self.author}</h1><p>{self.description}</p><p>{self.location}</p><p>Interests: {self.get_interests()}</p><a href='{self.github}' target='_blank'>Check out my code on GitHub</a>"
 
 
 Who()
 
 ```
 
-<h1>Eswar Divi</h1><p>🐍 Pythonista | 🔓 Open-source evangelist | 🐬 Deep Learning | 💡 Innovator</p><p>🌎 Anytown, SomeWhere</p><p>Interests: 📈 Data science | 🤖 Machine learning | 🎨 Creative coding | 🎮 Game development</p><p>Skills: 🐍 Python | ☕ Java | 🔥 Firebase | 🚀 Scala | 🐘 PostgreSQL | 🍃 MongoDB</p><a href='https://github.com/EswarDivi' target='_blank'>Check out my code on GitHub</a>
+<h1>Eswar Divi</h1><p>🐍 Pythonista | 🔓 Open-source evangelist | 🐬 Deep Learning </p><p>🌎 Anytown, SomeWhere</p><p>Interests: 📈 Data science | 🤖 Machine learning </p><a href='https://github.com/EswarDivi' target='_blank'>Check out my code on GitHub</a>
 
